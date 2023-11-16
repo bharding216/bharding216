@@ -4,6 +4,3 @@
 - 💬 Ask me about my 2 year old daughter
 - 📫 How to reach me: [brandonaharding@gmail.com](mailto:brandonaharding@gmail.com) 
 - ⚡ Fun fact: I was an all-state swimmer in high school.
-
-- ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bharding216&show_icons=true&count_private=true)
-
